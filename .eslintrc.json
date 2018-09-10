@@ -1,3 +1,17 @@
 {
-    "extends": "airbnb"
+    "extends": "airbnb",
+    "rules": {
+      "linebreak-style": "off",
+      "arrow-parens": ["off"],
+      "consistent-return": "off",
+      "comma-dangle": "off",
+      "generator-star-spacing": "off",
+      "import/no-unresolved": "error",
+      "import/no-extraneous-dependencies": "off",
+      "jsx-a11y/anchor-is-valid": "off",
+      "no-console": "off",
+      "no-use-before-define": "off",
+      "no-multi-assign": "off",
+      "arrow-body-style": "off"
+    }
 }
