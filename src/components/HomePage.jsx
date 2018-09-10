@@ -7,10 +7,9 @@ import { Link } from 'react-router-dom';
 
 const HomePage = () => {
   return (
-    <div>
+    <div className="App">
       <h1>
-        HomePage, press
-        <Link>Here</Link> to go to Victor route
+        HomePage, press <Link to="/victor">Here</Link> to go to Victor route
       </h1>
     </div>
   );
