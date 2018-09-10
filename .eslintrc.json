@@ -12,6 +12,7 @@
       "no-console": "off",
       "no-use-before-define": "off",
       "no-multi-assign": "off",
-      "arrow-body-style": "off"
+      "arrow-body-style": "off",
+      "react/jsx-one-expression-per-line": "allow"
     }
 }
